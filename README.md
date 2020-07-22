@@ -1,2 +1,2 @@
-# daily-coding-problems
+# Daily coding problems
 Repository of solutions to my daily coding problems.
